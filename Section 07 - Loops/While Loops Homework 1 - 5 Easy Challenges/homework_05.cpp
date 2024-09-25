@@ -6,7 +6,7 @@ int main() {
     omarovici
     int n ;
     cin >> n ;
-    int even = 0, odd = 0 , e = 0, o = 0;
+    double even = 0, odd = 0 , e = 0, o = 0;
     for (size_t i = 1; i <= n; i++)
     {
         int x ;
